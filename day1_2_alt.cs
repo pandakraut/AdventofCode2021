@@ -39,7 +39,7 @@ namespace AdventOfCode2020
             int total = 0;
             for (int windowDepth = 0; windowDepth < window; windowDepth++)
             {
-                total += Convert.ToInt32(depths[startIndex + windowDepth]);
+                total += depths[startIndex + windowDepth];
             }
             return total;           
         }    
