@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace AdventOfCode2020
 {
-    class day7_1
+    class day7_2
     {
 
         public static Dictionary<string, int> clouds = new Dictionary<string, int>();
