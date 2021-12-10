@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace AdventOfCode2020
 {
-    class day10_1
+    class day10_2
     {
 
         static void Main(string[] args)
